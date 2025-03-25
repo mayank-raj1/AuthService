@@ -130,5 +130,3 @@ if (pm.response.code === 200) {
     pm.environment.set("refreshToken", jsonData.refreshToken);
 }
 ```
-
-Would you like me to explain how to test any specific endpoint in more detail?
